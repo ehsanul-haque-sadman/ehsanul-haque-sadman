@@ -1,5 +1,5 @@
 # Hello 👋, I'm Ehsanul Haque Sadman
-###A passionate student pursuing a Bachelor's in Computer Science and Engineering.
+### A passionate student pursuing a Bachelor's in Computer Science and Engineering.
 
 ## About Me
 
